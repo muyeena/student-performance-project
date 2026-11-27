@@ -1,0 +1,2 @@
+This project analysis student performance and examination marks
+This project analysis students attendance
